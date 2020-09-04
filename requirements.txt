@@ -1,0 +1,7 @@
+django
+argon2-cffi
+whitenoise
+pylint
+pylint-django
+autopep8
+-e git+https://github.com/femtolytics/django-femtolytics
